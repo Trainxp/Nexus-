@@ -1,0 +1,43 @@
+
+
+.NavBar{
+    flex-wrap: no-wrap;
+    background-color: aqua;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    
+    justify-content: center;
+    box-shadow: 5px;
+
+}
+
+.Ulnav {
+    display: flex;
+    align-items:center;
+    
+    
+    
+   
+
+}
+
+.linav {padding: .8em;
+    background-color: black;
+    border-radius: 15px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+    list-style: none;
+    font-weight: 800;
+    margin: 1em 1em 1em 1em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    
+}
+
+.logo{
+    display: flex;
+    align-items: flex-start;
+}
